@@ -1,6 +1,6 @@
 # SQL Data Cleaning Projects
 
-Welcome to the SQL Data Cleaning Projects repository! This repository contains two projects where I applied advanced SQL techniques to clean and standardize datasets. These projects highlight my SQL proficiency in data preprocessing, ensuring data accuracy and consistency for data engineering roles.
+Welcome to the SQL Data Cleaning Projects repository! This repository contains two projects where I applied advanced SQL techniques to clean and standardize datasets. These projects highlight my SQL proficiency in data preprocessing, ensuring data accuracy and consistency for data engineering and scientist roles.
 
 ## Repository Contents
 
@@ -36,4 +36,4 @@ Welcome to the SQL Data Cleaning Projects repository! This repository contains t
 To explore these projects, clone the repository and navigate to the respective project folders. Each project folder contains the SQL scripts and a brief explanation of the steps taken.
 
 ```bash
-git clone https://github.com/yourusername/sql-data-cleaning-projects.git
+git clone https://github.com/pyou-7/SQL-Data-Cleaning-Projects.git
